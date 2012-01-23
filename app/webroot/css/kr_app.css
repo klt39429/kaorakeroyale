@@ -1,0 +1,17 @@
+.stream_box {
+	float: left;
+	margin: 10px;
+	width: 300px;
+	height: 205px;
+	text-align: center;
+}
+
+
+.stream img {
+	width: 110px;
+	margin: 20px;
+}
+
+.clear {
+	clear: both;
+}

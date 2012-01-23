@@ -1,0 +1,106 @@
+.stream_box {
+	float: left;
+	margin: 5px;
+	width: 280px;
+	text-align: center;
+}
+
+.stream {
+	height: 185px;
+	
+}
+
+.speaker {
+	display: none;
+}
+
+.profile {
+	width: 110px;
+	margin: 20px;
+}
+
+.clear {
+	clear: both;
+}
+
+#disco {
+	position: absolute;
+	width: 2000px;
+	height: 2000px;
+	background: blue;
+	top: 0px;
+	display: none;
+
+}
+/*.music {
+	margin: auto;
+	width: 600px;
+}*/
+
+.button {
+float: left;
+width: 150px;
+padding: 7px;
+background: orange;
+border-radius: 10px;
+text-align: center;
+font-weight: 700;
+color: white;
+font-size: 1.25em;
+display: block;
+margin-left: 70px;
+}
+
+body {
+	font-size: 18px;
+	background: white;
+	
+}
+
+#header {
+
+background: #003D4C;
+position: absolute;
+right: 0px;
+width: 250px;
+
+border-bottom-left-radius: 60px;
+}
+
+.header_title{
+font-size: 1.5em;
+font-family: Arial;
+font-weight: 800;
+text-shadow: 0.05em 0.05em 0.05em white;
+text-align: right;
+color: white;
+text-decoration:none;
+
+}
+
+.header_title a{
+text-decoration:none;
+
+}
+
+
+
+
+.header_title a {
+	text-decoration:none;
+}
+
+.bottom_half {
+	background: #003D4C;
+	width: 100%;
+}
+
+
+.title {
+	font-size: 2em;
+	font-family: Arial;
+	font-weight: 800;
+	text-shadow: 0.05em 0.05em lightGrey;
+}
+
+
